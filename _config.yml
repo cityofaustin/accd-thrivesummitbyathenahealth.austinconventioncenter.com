@@ -10,10 +10,6 @@ event_coordinator:
   name: Johnine Bacon
   email: Johnine.Bacon@austintexas.gov
   phone: 5124044224
-utility_coordinator:
-  name: Teddy Kim, CEM
-  email: teddy.kim@austintexas.gov
-  phone: 5124044225
 security_coordinator:
   name: Patrick Thornhill
   email: Patrick.Thornhill@austintexas.gov
